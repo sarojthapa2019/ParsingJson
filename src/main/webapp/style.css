@@ -1,0 +1,13 @@
+table{
+    border: brown;
+    font-family: "Arial Rounded MT Bold";
+    width: 100%;
+
+}
+td, th{
+    border: 1px solid green;
+    text-align: left;
+}
+tr:nth-child(even){
+    background-color: burlywood;
+}
